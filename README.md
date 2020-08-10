@@ -1,5 +1,5 @@
 # MSI B360M Mortar with Big Sur
-Fully functioning OpenCore EFI for MSI B360M Mortar at **macOS Big Sur**
+Fully functioning OpenCore EFI for MSI B360M Mortar with **macOS Big Sur**
 
 ### OpenCore: 0.6.0
 ### macOS Big Sur (*Public Beta 1*)
