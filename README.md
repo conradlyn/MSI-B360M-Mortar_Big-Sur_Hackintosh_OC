@@ -13,7 +13,8 @@ Fully functioning OpenCore EFI for MSI B360M Mortar at Big Sur
 - SSD: Intel NVME 256GB
 - Wifi + Bluetooth: BCM943602CS
 
-Another SSD (Samsung 860 Evo) is installed for Windows 10. OC set to boot macOS as default. Function key F11 to boot Windows 10 from the Samsung SSD.
+Another SSD (Samsung 860 Evo) is installed for Windows 10. OC set to boot macOS as default. I use function key F11 to boot Windows 10 from the Samsung SSD.
+Windows 10 also can be booted directly from OC (tested).
 
 ## Caveat
 
