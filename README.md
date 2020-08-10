@@ -2,7 +2,7 @@
 Fully functioning OpenCore EFI for MSI B360M Mortar at **macOS Big Sur**
 
 ### OpenCore: 0.6.0
-### macOS Big Sur (Public Beta 1)
+### macOS Big Sur (*Public Beta 1*)
 
 ## Hardware
 - **CPU:** Intel i5 9400
