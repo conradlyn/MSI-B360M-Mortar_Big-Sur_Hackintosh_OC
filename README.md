@@ -18,9 +18,9 @@ Windows 10 also can be booted **directly from OC** (tested).
 
 ## Caveat
 
-- You need to fill in the **platforminfo** by yourself.
-- You may want to generate your own **CPUFriendDataProvider.kext**. Alternatively, you can delete CPUFriend.kext and CPUFriendDataProvider.kext all together, and disable / delete the corresponding entries in config.plist.
-- You may want to generate your own **USBPorts.kext** or use USBInjectAll.kext (mutually exclusive).
-- You can also delete **IntelMausi.kext** if ethernet is not needed, and disable / delete the entry in config.plist.
+- *You* need to fill in the **platforminfo** by yourself.
+- *You* may want to generate your own **CPUFriendDataProvider.kext**. Alternatively, you can delete CPUFriend.kext and CPUFriendDataProvider.kext all together, and disable / delete the corresponding entries in config.plist.
+- *You* may want to generate your own **USBPorts.kext** or use USBInjectAll.kext (mutually exclusive).
+- *You* can also delete **IntelMausi.kext** if ethernet is not needed, and disable / delete the entry in config.plist.
 
 (remember to rebuild cache if kexts are deleted)
